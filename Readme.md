@@ -40,4 +40,4 @@ In this solution, I have utilized GitHub Copilot solely for the purpose of gener
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
