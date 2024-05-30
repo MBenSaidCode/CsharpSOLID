@@ -34,6 +34,10 @@ At the moment, the solution contains one project for the Open-Closed Principle (
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
+## Note
+
+In this solution, I have utilized GitHub Copilot solely for the purpose of generating XML comments and this readme file.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
