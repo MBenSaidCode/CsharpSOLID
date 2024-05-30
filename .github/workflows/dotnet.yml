@@ -26,5 +26,5 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: |
-        cd ./home/runner/work/CsharpSOLID/CsharpSOLID/Tests/COP.Tests
+        cd ../../Tests/COP.Tests
         dotnet test --no-build --verbosity normal
