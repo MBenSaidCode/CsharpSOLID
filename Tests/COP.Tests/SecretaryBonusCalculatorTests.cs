@@ -5,7 +5,7 @@ namespace COP.Tests;
 public class SecretaryBonusCalculatorTests
 {
     [Theory(DisplayName = "Successful scenario")]
-    [InlineData(1000, 110)]
+    [InlineData(1000, 100)]
     [InlineData(2500, 250)]
     public void CalculateBonus_WithValidInput_ReturnsExpectedBonus(double baseSalary, double expectedValue)
     {
