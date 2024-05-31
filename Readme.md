@@ -28,7 +28,7 @@ To run each application, follow the instructions provided in the respective proj
 
 ## Current Progress
 
-At the moment, the solution contains one project for the Open-Closed Principle (OCP) implementation. This project demonstrates how to design software entities that are open for extension but closed for modification.
+At the moment, the solution contains two projects: one for the Open-Closed Principle (OCP) implementation and another for the Interface Segregation Principle (ISP) implementation. These projects demonstrate how to design software entities that are open for extension but closed for modification, and how to avoid forcing clients to depend on interfaces they do not use, respectively.
 
 ## Contributing
 
@@ -40,4 +40,4 @@ In this solution, I have utilized GitHub Copilot solely for the purpose of gener
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License]
