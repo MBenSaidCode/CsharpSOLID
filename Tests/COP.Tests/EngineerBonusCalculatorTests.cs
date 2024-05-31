@@ -16,6 +16,6 @@ public class EngineerBonusCalculatorTests
         var bonus = sut.CalculateBonus(baseSalary);
 
         // Assert : Assert that the calculated bonus is equal to the expected value
-        Assert.Equal(bonus, expectedValue);
+        Assert.Equal(expectedValue,bonus);
     }
 }

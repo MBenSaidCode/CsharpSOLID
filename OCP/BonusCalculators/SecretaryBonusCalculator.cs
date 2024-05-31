@@ -14,7 +14,8 @@ namespace OCP.BonusCalculators
         /// <returns>The calculated bonus amount</returns>
         public double CalculateBonus(double baseSalary)
         {
-             return baseSalary * BonusPercentageConstants.SecretaryBonusPercentage;
+             var bonus = baseSalary * BonusPercentageConstants.SecretaryBonusPercentage;
+             return Math.Round(bonus,2);
         }
     }
 }
